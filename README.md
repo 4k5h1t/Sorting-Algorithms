@@ -14,5 +14,3 @@ Learning / Creating new and weird sorting algorithms and  providing visualizatio
   + Class: Comparison sort
 
 ![Sorting_shaker_sort_anim](https://user-images.githubusercontent.com/73750950/192333812-1edc8c60-803e-4008-88de-1577bc680159.gif)
-
-### xyz
